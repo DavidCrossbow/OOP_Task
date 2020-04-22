@@ -26,5 +26,12 @@ namespace OOP
         {
             throw new NotImplementedException();
         }
+        public Planes() { } // Пустой конструктор
+        public Planes(string model, int capacity, int max_height) // Параметризированный конструктор
+        {
+            this.model = model;
+            this.capacity = capacity;
+            this.max_height = max_height;
+        }
     }
 }
