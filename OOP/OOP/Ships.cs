@@ -21,7 +21,7 @@ namespace OOP
         {
             throw new NotImplementedException();
         }
-        public Ships() { } // Пустой конструктор
+        public Ships() {} // Пустой конструктор
         public Ships(string model, int capacity, int displacement) // Параметризированный конструктор
         {
             this.model = model;

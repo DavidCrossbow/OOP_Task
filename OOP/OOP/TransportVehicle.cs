@@ -8,7 +8,7 @@ namespace OOP
     {
         public string model; // Модель
         public int capacity; // Вместимость
-
+        
         public abstract void Control (); // Управление
         public abstract void Motion(); // Движение
     }

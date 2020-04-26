@@ -22,7 +22,7 @@ namespace OOP
             throw new NotImplementedException();
         }
 
-        public void Scan() // Имплементация амолётного радара
+        public void Scan() // Имплементация самолётного радара
         {
             throw new NotImplementedException();
         }

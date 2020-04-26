@@ -5,9 +5,12 @@ C:\Users\Cellar Door\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimecon
 C:\Users\Cellar Door\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
 C:\Users\Cellar Door\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
-C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
 C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Users\Cellar Door\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CopyComplete
+C:\Users\Cellar Door\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Cellar Door\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
